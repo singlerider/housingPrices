@@ -1,8 +1,6 @@
 import requests
 import csv
 
-app = Blueprint('housing_prices', __name__)
-
 zip = "94109"
 
 def get_estimated_rent_prices(zip):
