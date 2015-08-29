@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 import requests
-import csv
 
 zipcode = "94109"
 code = "PRR"
